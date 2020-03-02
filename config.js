@@ -1,7 +1,7 @@
 // Shaoqi Jiang for My Love Yuanyuan Wei 
 // Celebrate our 3rd years love
 var config = {
-
+ 
     lines: [
         "亲爱的",
         "逝去的岁月，如何能托于烟尘",
